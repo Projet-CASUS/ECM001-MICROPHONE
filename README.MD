@@ -3,7 +3,7 @@ DigiKey: https://www.digikey.ca/product-detail/en/cui-devices/DEVKIT-ECM-001/102
 ## Spec
 <ul>
   <li>
-    Ananlog output
+    Analog output
   </li>
   <li>4 independent microphones:
    <ol>
